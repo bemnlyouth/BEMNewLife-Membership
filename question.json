@@ -1,0 +1,26 @@
+[
+    {
+        "id": "name",
+        "label": "Full Name",
+        "type": "text",
+        "required": true
+    },
+    {
+        "id": "email",
+        "label": "Email Address",
+        "type": "email",
+        "required": true
+    },
+    {
+        "id": "age",
+        "label": "Age",
+        "type": "number",
+        "required": true
+    },
+    {
+        "id": "food",
+        "label": "Favourite Food",
+        "type": "text",
+        "required": false
+    }
+]
